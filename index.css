@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    
+
+}
+.box{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+h2{
+    text-align: center;
+}
+div{
+    align-items: center;
+}
